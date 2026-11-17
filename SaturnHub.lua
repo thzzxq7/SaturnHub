@@ -13,7 +13,7 @@
 
 -- ══════════════════════════════════════════════════════
 --  ★ EDITE APENAS ESTA LINHA ★
-local GITHUB = "https://raw.githubusercontent.com/YOUR_USER/YOUR_REPO/main/"
+local GITHUB = "https://github.com/thzzxq7/SaturnHub/blob/main/SaturnHub.lua"
 -- ══════════════════════════════════════════════════════
 
 local Players           = game:GetService("Players")
